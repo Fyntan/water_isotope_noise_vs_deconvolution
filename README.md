@@ -11,7 +11,7 @@ Package "PaleoSpec" required for final script. This can be found and downloaded 
 
 The following scripts produce the following figures:
 
-*theory_figs.R* produces Fig. 1 and Fig. 3
-*BE-OIC_f_max.R* produces Fig. 2, Fig. 5, Fig. A1, Fig. A2 and Fig. B1
-*relative_freq_gain.R* produces Fig. 4
+*theory_figs.R* produces Fig. 1 and Fig. 3<br>
+*BE-OIC_f_max.R* produces Fig. 2, Fig. 5, Fig. A1, Fig. A2 and Fig. B1<br>
+*relative_freq_gain.R* produces Fig. 4<br>
 *decon_timeseries.R* produces Fig. 6 and Fig. 7
